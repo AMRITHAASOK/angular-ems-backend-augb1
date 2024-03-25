@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin-Luminar26",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "25",
+      "name": "Sam",
+      "email": "sam@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "26",
+      "name": "Suresh",
+      "email": "m@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "567",
+      "name": "Mevin",
+      "email": "mevin@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "890",
+      "name": "Sandra",
+      "email": "sandra@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "234",
+      "name": "Manu M",
+      "email": "m@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "657",
+      "name": "alan john",
+      "email": "alan@gmail.com",
+      "active": "1"
+    }
+  ]
+}
